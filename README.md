@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://modd.io">
-    <img src="logo.png" width="400" alt="Taro Engine logo">
+    <img src="https://i.ibb.co/8YH2cn5/small-gamehub-aco.png" width="400" alt="Taro Engine logo">
   </a>
 </p>
 
